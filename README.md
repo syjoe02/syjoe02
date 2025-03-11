@@ -4,8 +4,11 @@
   </a>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syjoe02&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syjoe02&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=syjoe02&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syjoe02&layout=compact&card_width=320" height="180px"/>
+</div>
+
 
 <p align="center" >
 	<picture>
