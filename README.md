@@ -4,7 +4,8 @@
   </a>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syjoe02&show_icons=true&theme=tokyonight)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=syjoe02)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center" >
 	<picture>
