@@ -34,8 +34,10 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat" alt="Docker Badge">
   <img src="https://img.shields.io/badge/Amazon-F90?logo=amazon&logoColor=fff&style=flat" alt="Amazon Badge">
   <img src="https://img.shields.io/badge/Naver-03C75A?logo=naver&logoColor=fff&style=flat" alt="Naver Badge">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat" alt="GitHub Actions Badge">
   <img src="https://img.shields.io/badge/Argo-EF7B4D?logo=argo&logoColor=fff&style=flat" alt="Argo Badge">
   <img src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff&style=flat" alt="Helm Badge">
+  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=flat" alt="Grafana Badge">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=fff&style=flat" alt="Prometheus Badge">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat" alt="Kubernetes Badge">
 </span>
