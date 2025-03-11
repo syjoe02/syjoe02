@@ -4,13 +4,15 @@
   </a>
 </div>
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+<table align="center">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=syjoe02&show_icons=true&theme=tokyonight" width="420"/></td>
-    <td width="50px"></td> <!-- 여백 조정 -->
+    <td width="50px"></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syjoe02&layout=compact&card_width=420" width="420"/></td>
   </tr>
 </table>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" />
 
 <p align="center" >
 	<picture>
