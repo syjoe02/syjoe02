@@ -4,6 +4,8 @@
   </a>
 </div>
 
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" /> Status</h3>
+
 <table align="center">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=syjoe02&show_icons=true&theme=tokyonight" width="420"/></td>
@@ -12,16 +14,38 @@
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" />
+<!-- Badges -->
+<h3>Language</h3>
+<span>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat" alt="Python Badge">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat" alt="C++ Badge">
+</span>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Bird.png" alt="Black Bird" width="25" height="25" /> 
-</br>
-Contribution :  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit%20Face.png" alt="Rabbit Face" width="25" height="25" /> , <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Paw%20Prints.png" alt="Paw Prints" width="25" height="25" />
+<h3>Backend</h3>
+<span>
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat" alt="Django Badge">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat" alt="Spring Badge">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat" alt="MySQL Badge">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat" alt="PostgreSQL Badge">
+</span>
 
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/syjoe02/syjoe02/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syjoe02/syjoe02/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/syjoe02/syjoe02/output-3d-contrib/day.svg" />
-	</picture>
-</p>
+<h3>DevOps</h3>
+<span>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat" alt="Docker Badge">
+  <img src="https://img.shields.io/badge/Amazon-F90?logo=amazon&logoColor=fff&style=flat" alt="Amazon Badge">
+  <img src="https://img.shields.io/badge/Naver-03C75A?logo=naver&logoColor=fff&style=flat" alt="Naver Badge">
+  <img src="https://img.shields.io/badge/Argo-EF7B4D?logo=argo&logoColor=fff&style=flat" alt="Argo Badge">
+  <img src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff&style=flat" alt="Helm Badge">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=fff&style=flat" alt="Prometheus Badge">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat" alt="Kubernetes Badge">
+</span>
+
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Bird.png" alt="Black Bird" width="25" height="25" /> About me :</h3>
+Full-Stack Developer
+
+<h3>🏆 Contributors :</h3>  
+<span style="display: inline;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit%20Face.png" alt="Rabbit Face" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Paw%20Prints.png" alt="Paw Prints" width="25" height="25" />
+</span>
+
