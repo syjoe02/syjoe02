@@ -4,11 +4,13 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syjoe02&show_icons=true&theme=tokyonight" height="180px" style="margin-right: 20px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syjoe02&layout=compact&card_width=320" height="180px"/>
-</div>
-
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=syjoe02&show_icons=true&theme=tokyonight" width="420"/></td>
+    <td width="50px"></td> <!-- 여백 조정 -->
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syjoe02&layout=compact&card_width=420" width="420"/></td>
+  </tr>
+</table>
 
 <p align="center" >
 	<picture>
