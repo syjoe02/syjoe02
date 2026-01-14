@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" /> Status</h3>
+<!-- <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" /> Status</h3>
 
 <table align="center">
   <tr>
@@ -12,7 +12,7 @@
     <td width="50px"></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syjoe02&layout=compact&card_width=420" width="420"/></td>
   </tr>
-</table>
+</table> -->
 
 <!-- Badges -->
 <h3>Language</h3>
